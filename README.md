@@ -13,4 +13,8 @@
 + https://developer.mozilla.org/zh-CN/docs/Web/HTTP
 * 结合之前的 demo 及现在的 video.js 的 demo 先把画面呈现出来
 * 先看之前的请求是状态码是不是 200 通过 video.js 结合改变为 206
- 
+
+# 真理所在
++ https://github.com/videojs/video.js/blob/61e20786a975f0555829635fcfb591794cc8cdef/src/js/video.js 视频也是 ajax 请求
++ https://github.com/naugtur/xhr 引入其他的 ajax 请求库
+全部都集中在这里
