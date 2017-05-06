@@ -18,3 +18,12 @@
 + https://github.com/videojs/video.js/blob/61e20786a975f0555829635fcfb591794cc8cdef/src/js/video.js 视频也是 ajax 请求
 + https://github.com/naugtur/xhr 引入其他的 ajax 请求库
 全部都集中在这里
+
+# 重要的一些关于视频的基本知识
++ http://www.ckplayer.com/tool/help/64.htm
++ http://www.ckplayer.com/tool/help/71.htm
++ http://anfay.com/1594
+
+# 终极答案
++ http://blog.csdn.net/charleslei/article/details/50964176
++ https://www.w3.org/TR/media-source/ (权威指南)
