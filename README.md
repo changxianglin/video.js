@@ -27,3 +27,6 @@
 # 终极答案
 + http://blog.csdn.net/charleslei/article/details/50964176
 + https://www.w3.org/TR/media-source/ (权威指南)
+
+# 拖拽播放
++ http://blog.csdn.net/coloriy/article/details/47724927（核心）
